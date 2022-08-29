@@ -1,13 +1,16 @@
-# EnlightenGAN
-
-IEEE Transaction on Image Processing, 2020, [EnlightenGAN: Deep Light Enhancement without Paired Supervision](https://arxiv.org/abs/1906.06972)
-
+# AFDNet
 ### Representitive Results
-![representive_results](/assets/show_3.png)
+![representive_results](AFDNet/AFDNet-master/AFDNet-master/assets/1.png)
 
+![representive_results](/assets/2.png)
+
+![representive_results](/assets/3.png)
 ### Overal Architecture
-![architecture](/assets/arch.png)
+![architecture](/assets/4.png)
 
+![architecture](/assets/5.png)
+
+![architecture](/assets/6.png)
 ## Environment Preparing
 ```
 python3.5
@@ -30,7 +33,6 @@ then run the following command
 
 ### Testing process
 
-Download [pretrained model](https://drive.google.com/file/d/1AkV-n2MdyfuZTFvcon8Z4leyVb0i7x63/view?usp=sharing) and put it into `./checkpoints/enlightening`
 
 Create directories `../test_dataset/testA` and `../test_dataset/testB`. Put your test images on `../test_dataset/testA` (And you should keep whatever one image in `../test_dataset/testB` to make sure program can start.)
 
@@ -46,20 +48,6 @@ Testing data [[Google Drive]](https://drive.google.com/open?id=1PrvL8jShZ7zj2IC3
 
 And [[BaiduYun]](https://github.com/TAMU-VITA/EnlightenGAN/issues/28) is available now thanks to @YHLelaine!
 
-### Faster Inference
-https://github.com/arsenyinfo/EnlightenGAN-inference from @arsenyinfo
 
-
-
-If you find this work useful for you, please cite
-```
-@article{jiang2021enlightengan,
-  title={Enlightengan: Deep light enhancement without paired supervision},
-  author={Jiang, Yifan and Gong, Xinyu and Liu, Ding and Cheng, Yu and Fang, Chen and Shen, Xiaohui and Yang, Jianchao and Zhou, Pan and Wang, Zhangyang},
-  journal={IEEE Transactions on Image Processing},
-  volume={30},
-  pages={2340--2349},
-  year={2021},
-  publisher={IEEE}
-}
-```
+###Reference
+Code borrows heavily from https://github.com/VITA-Group/EnlightenGAN.
