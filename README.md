@@ -1,6 +1,6 @@
 # AFDNet
 ### Representitive Results
-![representive_results](AFDNet/AFDNet/assets/1.png)
+![representive_results](AFDNet/AFDNet-master/assets/1.png)
 
 ![representive_results](/assets/2.png)
 
