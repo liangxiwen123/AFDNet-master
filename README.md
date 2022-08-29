@@ -1,16 +1,16 @@
 # AFDNet
 ### Representitive Results
-![representive_results](AFDNet/AFDNet-master/AFDNet-master/assets/1.png)
+![representive_results](/AFDNet-master/AFDNet-master/assets/1.png)
 
-![representive_results](/assets/2.png)
+![representive_results](/AFDNet-master/AFDNet-master/assets/2.png)
 
-![representive_results](/assets/3.png)
+![representive_results](/AFDNet-master/AFDNet-master/assets/3.png)
 ### Overal Architecture
-![architecture](/assets/4.png)
+![architecture](/AFDNet-master/AFDNet-master/assets/4.png)
 
-![architecture](/assets/5.png)
+![architecture](/AFDNet-master/AFDNet-master/assets/5.png)
 
-![architecture](/assets/6.png)
+![architecture](/AFDNet-master/AFDNet-master/assets/6.png)
 ## Environment Preparing
 ```
 python3.5
