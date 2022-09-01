@@ -42,7 +42,7 @@ Run
 
 ### Dataset preparing
 
-Training data First Download training data set from https://daooshee.github.io/BMVC2018website/. Save training pairs of our LOL dataset ( including 500 paired images) LOL Testing data also come from there. Put low-light images in `../final_dataset/testA` and high-light images in `../final_dataset/testB`.
+Training data First Download training data set from https://daooshee.github.io/BMVC2018website/. Save training pairs of our LOL dataset ( including 500 paired images) LOL Testing data also come from there. Put low-light images in `../final_dataset/trainA` and high-light images in `../final_dataset/trainB`.
 
 Testing data [[Google Drive]](https://drive.google.com/open?id=1PrvL8jShZ7zj2IC3fVdDxBY1oJR72iDf) (including LIME, MEF, NPE, VV, DICP)
 
